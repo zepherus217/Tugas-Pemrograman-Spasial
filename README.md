@@ -5,7 +5,7 @@ Web-GIS yang dibuat menggunakan data dari Ina Geoportal dan Jateng Geoportal yan
 Data kemudian dikembangkan menggunakan QGIS dalam pembuatan Layout dan Pengubahan file menjadi GeoJSON
 Pembuatan versi WebQGIS dikembangkan menggunakan plugin web2gis yang didapatkan dari QGIS
 
-WebGIS berisi tentang data RS dan Labkes Rujukan untuk Pasien Covid-19
+WebGIS berisi tentang data RS dan Labkes Rujukan untuk Pasien Covid-19 di Wilayah Jawa Tengah
 Fitur yang disematkan pada Peta : 
 1. Zoom
 2. Search = untuk layer atau data dengan parameter Kabupaten | Contoh : Pati, Kudus, dll.
